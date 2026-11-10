@@ -1,0 +1,15 @@
+# work files from the design process (not part of the website)
+.claude/
+.taste-skill/
+shots/
+skills-lock.json
+CLAUDE.md
+names.json
+
+# the design kit's stock-photo library; the site uses assets/img only
+assets/photos/
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
